@@ -4,7 +4,6 @@ First I will introduce myself. My name is Wellington Willers I'm 22 years old an
 
 In the repositories below you will see many of my studies, individual and many projects developed during Ignite, offered by Rocketseat company.
 
-![Principais skills](https://github-readme-stats.vercel.app/api/top-langs/?username=WelliWillers&layout=compact&theme=radical)
 
 I hope you enjoy it!
 
