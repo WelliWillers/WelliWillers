@@ -4,6 +4,7 @@ First I will introduce myself. My name is Wellington Willers I'm 22 years old an
 
 In the repositories below you will see many of my studies, individual and many projects developed during Ignite, offered by Rocketseat company.
 
+### 🔵🔵🔵🔵 [See my porfolio here](https://welliwillers.github.io/portfolio/) 🔵🔵🔵🔵
 
 I hope you enjoy it!
 
@@ -19,13 +20,15 @@ I hope you enjoy it!
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="40"/> </a> 
 
+### 🔹 Experience (I have less experience)
+<a href="https://nextjs.org/" target="_blank"> <img src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png" alt="nextjs" width="70" height="40"/> </a> 
+<a href="https://firebase.google.com/docs" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="40"/> </a> 
 
 ### 🔹 Studying
 <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank"> <img src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png" alt="nextjs" width="70" height="40"/> </a> 
-<a href="https://firebase.google.com/docs" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="vuejs" width="40" height="40"/> </a> 
 
 ## 🔹 Contact me!
 
