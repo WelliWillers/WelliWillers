@@ -4,7 +4,7 @@ First I will introduce myself. My name is Wellington Willers I'm 22 years old an
 
 In the repositories below you will see many of my studies, individual and many projects developed during Ignite, offered by Rocketseat company.
 
-### 🔵🔵🔵🔵 [See my porfolio here](https://welliwillers.github.io/portfolio/) 🔵🔵🔵🔵
+### 🔵🔵🔵🔵 [See my porfolio made with VueJs here](https://welliwillers.github.io/portfolio/) 🔵🔵🔵🔵
 
 I hope you enjoy it!
 
