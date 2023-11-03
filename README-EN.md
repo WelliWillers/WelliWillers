@@ -13,11 +13,11 @@ I have a strong inclination for teamwork, known for my communication skills and 
 
 I am a dedicated professional, brimming with enthusiasm for learning, and I easily adapt to the various situations I encounter in my daily routine!
 
-<h2 align="center">🛠 Skils</h2>
-<p align="center">Technologies and tools</p>
+<h1 align="center">🛠 Skils</h1>
 
-<h3 align="left"> 👉 I have experience 👈</h3>
-<div align="left">
+<h2 align="center"> 👉 I have experience 👈</h2>
+<div align="center">
+  <h4>🚀 Technologies:</h4>
   <img src="https://img.shields.io/static/v1?label=&message=JS&color=black&style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/static/v1?label=&message=TS&color=black&style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/static/v1?label=&message=REACTJS&color=black&style=for-the-badge&logo=react"/>
@@ -32,7 +32,7 @@ I am a dedicated professional, brimming with enthusiasm for learning, and I easi
   <img src="https://img.shields.io/static/v1?label=&message=VUEJS&color=black&style=for-the-badge&logo=vuedotjs"/>
   <img src="https://img.shields.io/static/v1?label=&message=NUXTJS&color=black&style=for-the-badge&logo=nuxtdotjs"/>
 
-  <h4>⚙️ Ferramentas: </h4>
+  <h4>🛠️ Tools:</h4>
   <img src="https://img.shields.io/static/v1?label=&message=LINUX&color=black&style=for-the-badge&logo=ubuntu"/>
   <img src="https://img.shields.io/static/v1?label=&message=GIT&color=black&style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/static/v1?label=&message=DOCKER&color=black&style=for-the-badge&logo=docker"/>
@@ -42,13 +42,13 @@ I am a dedicated professional, brimming with enthusiasm for learning, and I easi
   <img src="https://img.shields.io/static/v1?label=&message=INSOMNIA&color=black&style=for-the-badge&logo=insomnia"/>
 </div>
 
-<h3 align="left"> 👉 I'm learning 👈</h3>
-<div align="left">
+<h2 align="center"> 👉 I'm learning 👈</h2>
+<div align="center">
   <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=black&style=for-the-badge&logo=react"/>
 </div>
 
-<h3 align="left"> 👉 My next step 👈</h3>
-<div align="left">
+<h2 align="center"> 👉 My next step 👈</h2>
+<div align="center">
   <img src="https://img.shields.io/static/v1?label=&message=NODEJS&color=black&style=for-the-badge&logo=nodedotjs"/>
 </div>
 
