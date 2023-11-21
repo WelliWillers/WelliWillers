@@ -4,8 +4,10 @@
     <a href="https://github.com/WelliWillers/WelliWillers/blob/main/README-EN.md"><img src="https://img.shields.io/static/v1?label=en-US&message=English&color=black&style=for-the-badge&logo="/></a>
 </div>
 
+<br/>
 
-<h1 align="center">✋ Olá pessoal, eu sou Wellington!</h1>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=70&duration=4000&pause=1000&center=true&random=false&width=2000&height=179&lines=%E2%9C%8B+Ol%C3%A1+pessoal%2C+eu+sou+Wellington!;Seja+muito+bem-vindo!)
 
 Sou um desenvolvedor Front-End com 5 anos de experiência, possuindo expertise em ReactJS, React Native, NextJs, VueJS, NuxtJS, HTML, CSS ou SCSS, Typescript, Javascript, além de contar com experiência em WordPress e PHP.
 
