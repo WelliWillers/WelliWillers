@@ -42,16 +42,17 @@ Sou um profissional dedicado, repleto de entusiasmo para aprender e capaz de se 
   <img src="https://img.shields.io/static/v1?label=&message=MYSQL&color=black&style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/static/v1?label=&message=FIREBASE&color=black&style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/static/v1?label=&message=INSOMNIA&color=black&style=for-the-badge&logo=insomnia"/>
+  <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=black&style=for-the-badge&logo=react"/>
 </div>
 
 <h2 align="center"> 👉 Estou estudando 👈</h2>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=black&style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/static/v1?label=&message=NODEJS&color=black&style=for-the-badge&logo=nodedotjs"/>
 </div>
 
 <h2 align="center"> 👉 São meus próximos passos 👈</h2>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=NODEJS&color=black&style=for-the-badge&logo=nodedotjs"/>
+    ...
 </div>
 
 <h2 align="center">☎️ Entre em contato pelos canais</h2>
