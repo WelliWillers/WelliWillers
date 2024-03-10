@@ -41,16 +41,17 @@ I am a dedicated professional, brimming with enthusiasm for learning, and I easi
   <img src="https://img.shields.io/static/v1?label=&message=MYSQL&color=black&style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/static/v1?label=&message=FIREBASE&color=black&style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/static/v1?label=&message=INSOMNIA&color=black&style=for-the-badge&logo=insomnia"/>
+  <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=black&style=for-the-badge&logo=react"/>
 </div>
 
 <h2 align="center"> 👉 I'm learning 👈</h2>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=black&style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/static/v1?label=&message=NODEJS&color=black&style=for-the-badge&logo=nodedotjs"/>
 </div>
 
 <h2 align="center"> 👉 My next step 👈</h2>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=NODEJS&color=black&style=for-the-badge&logo=nodedotjs"/>
+    ...
 </div>
 
 <h2 align="center">☎️ Get in touch through the channels</h2>
